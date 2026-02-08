@@ -5,6 +5,12 @@ The project focuses on clean UI, responsive design, and structured layout.
 
 This project was created during my **second year of BTech** as a frontend practice project using HTML, CSS, and Bootstrap.
 
+![screenshot](snapshots/1.png)
+
+![screenshot](snapshots/2.png)
+
+![screenshot](snapshots/3.png)
+
 ---
 
 ## ✨ Features
